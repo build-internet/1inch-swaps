@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@1inch/fusion-sdk": "^2.1.5",
+    "express": "^4.19.2",
+    "web3": "^4.11.1"
+  }
+}
